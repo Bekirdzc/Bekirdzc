@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Bekirdzc
+- 👋 Hi, I’m Bekir Atılmış
 - 👀 I’m interested in IOS $ Android Devaloper 
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Devaloper IOS and Android 
 - 📫 How to reach me bekirdzc81@gmail.com
 
